@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "260148323296",
+    "project_id": "chatgpt-819fd",
+    "storage_bucket": "chatgpt-819fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260148323296:android:752bfec353bf6b64990185",
+        "android_client_info": {
+          "package_name": "com.example.gpt_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260148323296-8l62f77pf0dau4ga13mvsqoododmqna1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDklySk0dvuJzo7TcYenfcfG7SSVNx6-DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260148323296-8l62f77pf0dau4ga13mvsqoododmqna1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "260148323296-a3f4asmhs49q3fpp7qv1t2061ooe76sq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gptApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
