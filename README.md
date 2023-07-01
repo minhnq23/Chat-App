@@ -1,12 +1,13 @@
 # App_chat
 
 ## 1.Chức năng (hiện tại): 
--signIn, signUp user
-chat text giữa user 
+-[signIn, signUp user]
+-[chat text giữa user] 
 ## 2.Sử dụng (hiện tại):
-- firebase FireStore
-- flutter
-- GetX
+- [firebase FireStore]
+- [flutter]
+- [GetX]
+- [shared_preferences]
 Trang thái: đang hoàn thiện 
 
 ## Getting Started
