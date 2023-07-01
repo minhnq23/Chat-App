@@ -7,7 +7,6 @@ import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:get/get.dart';
 import 'package:gpt_app/src/controllers/home_controller.dart';
 import 'package:gpt_app/src/model/user.dart';
-import 'package:gpt_app/src/open_ai/constant.dart';
 import 'package:gpt_app/src/screens/chat_screen.dart';
 import 'package:gpt_app/src/screens/user_item.dart';
 import 'package:gpt_app/src/utilities/shared_preferences_app.dart';
