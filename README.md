@@ -1,6 +1,12 @@
-# gpt_app
+# App_chat
 
-A new Flutter project.
+1.chức năng: 
+-signIn, signUp user
+- chat text giữa user 
+2.Sử dụng:
+- firebase FireStore
+- flutter
+- GetX
 
 ## Getting Started
 
