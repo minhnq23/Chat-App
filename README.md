@@ -8,7 +8,6 @@
 - flutter
 - GetX
 - shared_preferences
-- Trang thái: đang hoàn thiện 
 
 ## Getting Started
 
